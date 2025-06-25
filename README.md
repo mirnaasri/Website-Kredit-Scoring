@@ -171,7 +171,7 @@ Kredit Scoring Kelompok 9
     <input type="number" id="nilaiAgunan" placeholder="Misal: 15000000">
 
     <div style="display:flex; justify-content: space-between;">
-      <button onclick="hitungSkor()">Hitung Skor PENGAJUAN</button>
+      <button onclick="hitungSkor()">Hitung Skor Pengajuan</button>
       <button class="reset" onclick="resetForm()">Reset</button>
     </div>
 
