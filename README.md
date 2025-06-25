@@ -1,6 +1,6 @@
 # Website-Kredit-Scoring
 Kredit Scoring Kelompok 9
-<!DOCTYPE html>
+
 <html lang="id">
 <head>
   <meta charset="UTF-8">
